@@ -1,6 +1,6 @@
-github.com/mattn/go-sqlite3 v1.14.11 h1:gt+cp9c0XGqe9S/wAHTL3n/7MqY+siPWgWJgqdsFrzQ=
-github.com/mattn/go-sqlite3 v1.14.11/go.mod h1:NyWgC/yNuGj7Q9rpYnZvas74GogHl5/Z4A/KQRfk6bU=
+github.com/mattn/go-sqlite3 v1.14.16 h1:yOQRA0RpS5PFz/oikGwBEqvAWhWg5ufRz4ETLjwpU1Y=
+github.com/mattn/go-sqlite3 v1.14.16/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
 github.com/rakyll/magicmime v0.1.0 h1:aFIp1DqgzjcB3FI7rQk6uZl73i1VPpWswab1YKU4CL4=
 github.com/rakyll/magicmime v0.1.0/go.mod h1:OKs4S+1GpIAB1PCebhwp3rxhyipe7TiImiIeVyFlQt8=
-gitlab.com/opennota/phash v1.0.2 h1:betp7vVjMeRP4DKPn+qg5Jt31mLYSZ3B/3wL1K27F9I=
-gitlab.com/opennota/phash v1.0.2/go.mod h1:wfYFbxmmrcBInZ/EWWSRGxHu3LNCYScK7VMKGtg701s=
+gitlab.com/opennota/phash v1.0.3 h1:hpBmoHaZT4yCzNq+5+8C43DWT+SgqBZDSMIDUw74ke4=
+gitlab.com/opennota/phash v1.0.3/go.mod h1:wfYFbxmmrcBInZ/EWWSRGxHu3LNCYScK7VMKGtg701s=
